@@ -6,6 +6,7 @@ x = 10;
 
 name = "arjun";
 obj = {};
+arr = [];
 y = 20;
 x1 = prompt("Enter number");
 x2 = prompt("Enter any num");
