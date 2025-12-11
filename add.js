@@ -3,6 +3,8 @@ function add(a, b) {
   return a + b;
 }
 x = 10;
+
+name = "arjun";
 y = 20;
 x1 = prompt("Enter number");
 x2 = prompt("Enter any num");
