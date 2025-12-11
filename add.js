@@ -5,6 +5,7 @@ function add(a, b) {
 x = 10;
 
 name = "arjun";
+obj = {};
 y = 20;
 x1 = prompt("Enter number");
 x2 = prompt("Enter any num");
