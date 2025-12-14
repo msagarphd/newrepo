@@ -3,7 +3,8 @@ function add(a, b) {
   return a + b;
 }
 x = 10;
-
+keshava = "Raghava";
+govinda = "narayana";
 name = "arjun";
 obj = {};
 arr = [];
